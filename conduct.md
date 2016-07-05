@@ -1,16 +1,20 @@
-# Citizen Code of Conduct
+---
+title: Crater Code of Conduct
+layout: default
+---
+# Crater Code of Conduct
 
 ## 1. Purpose
 
-A primary goal of COMMUNITY_NAME is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
+A primary goal of Crater is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
 
 This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
 
-We invite all those who participate in COMMUNITY_NAME to help us create safe and positive experiences for everyone.
+We invite all those who participate in Crater to help us create safe and positive experiences for everyone.
 
-## 2. Open [Source/Culture/Tech] Citizenship
+## 2. Open Source & Open Culture Citizenship
 
-A supplemental goal of this Code of Conduct is to increase open [source/culture/tech] citizenship by encouraging participants to recognize and strengthen the relationships between our actions and their effects on our community.
+A supplemental goal of this Code of Conduct is to increase open source and open culture citizenship by encouraging participants to recognize and strengthen the relationships between our actions and their effects on our community.
 
 Communities mirror the societies in which they exist and positive action is essential to counteract the many forms of inequality and abuses of power that exist in society.
 
@@ -61,9 +65,9 @@ Additionally, community organizers are available to help community members engag
 
 ## 7. Addressing Grievances
 
-If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify GOVERNING_BODY with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies. [LINK_TO_POLICY]
+If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify Crater Admins with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies.
 
-[NOTE: Every organization's governing policies should dictate how you handle warnings and expulsions of community members. It is strongly recommended that you mention those policies here or in Section 7 and that you include a mechanism for addressing grievances.]
+Only permanent resolutions (such as bans) may be appealed. To appeal a decision of the working group, contact the Crater Admins at josh@crater.io with your appeal and the admins will review the case.
 
 ## 8. Scope
 
@@ -73,13 +77,15 @@ This code of conduct and its related procedures also applies to unacceptable beh
 
 ## 9. Contact info
 
-[YOUR CONTACT INFO HERE -- this should be a single person or a small team who can respond to issues directly]
+Please contact <a href="mailto:joshua.owens@gmail.com">Josh Owens</a>
 
 ## 10. License and attribution
 
-The Citizen Code of Conduct is distributed by [Stumptown Syndicate](http://stumptownsyndicate.org) under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/). 
+The Crater Code of Conduct is distributed by [Spacedojo](http://spacedojo.com) under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/).
 
-Portions of text derived from the [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Geek Feminism Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
+Portions of text derived from the [Stumptown Syndicate](http://stumptownsyndicate.org/), [Django Code of Conduct](https://www.djangoproject.com/conduct/), and the [Geek Feminism Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
+
+_Revision 3.0. Posted 5 July 2016._
 
 _Revision 2.2. Posted 4 February 2016._
 
